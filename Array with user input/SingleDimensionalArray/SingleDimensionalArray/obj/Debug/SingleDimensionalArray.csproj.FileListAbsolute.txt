@@ -1,7 +1,0 @@
-C:\Users\ACT-STUDENT\Desktop\Array with user input\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.exe.config
-C:\Users\ACT-STUDENT\Desktop\Array with user input\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.exe
-C:\Users\ACT-STUDENT\Desktop\Array with user input\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.pdb
-C:\Users\ACT-STUDENT\Desktop\Array with user input\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Desktop\Array with user input\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Desktop\Array with user input\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.exe
-C:\Users\ACT-STUDENT\Desktop\Array with user input\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.pdb
