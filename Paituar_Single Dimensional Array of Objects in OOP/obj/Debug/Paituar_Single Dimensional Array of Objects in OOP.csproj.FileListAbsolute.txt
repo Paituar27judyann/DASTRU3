@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\Paituar_Single Dimensional Array of Objects in OOP\bin\Debug\Paituar_Single Dimensional Array of Objects in OOP.exe.config
+C:\Users\ACT-STUDENT\source\repos\Paituar_Single Dimensional Array of Objects in OOP\bin\Debug\Paituar_Single Dimensional Array of Objects in OOP.exe
+C:\Users\ACT-STUDENT\source\repos\Paituar_Single Dimensional Array of Objects in OOP\bin\Debug\Paituar_Single Dimensional Array of Objects in OOP.pdb
+C:\Users\ACT-STUDENT\source\repos\Paituar_Single Dimensional Array of Objects in OOP\obj\Debug\Paituar_Single Dimensional Array of Objects in OOP.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Paituar_Single Dimensional Array of Objects in OOP\obj\Debug\Paituar_Single Dimensional Array of Objects in OOP.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Paituar_Single Dimensional Array of Objects in OOP\obj\Debug\Paituar_Single Dimensional Array of Objects in OOP.exe
+C:\Users\ACT-STUDENT\source\repos\Paituar_Single Dimensional Array of Objects in OOP\obj\Debug\Paituar_Single Dimensional Array of Objects in OOP.pdb
