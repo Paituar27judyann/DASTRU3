@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\Two-Dimensional Array\Paituar_Two-Dimensional Array\Paituar_Two-Dimensional Array\bin\Debug\Paituar_Two-Dimensional Array.exe.config
+C:\Users\ACT-STUDENT\Desktop\Two-Dimensional Array\Paituar_Two-Dimensional Array\Paituar_Two-Dimensional Array\bin\Debug\Paituar_Two-Dimensional Array.exe
+C:\Users\ACT-STUDENT\Desktop\Two-Dimensional Array\Paituar_Two-Dimensional Array\Paituar_Two-Dimensional Array\bin\Debug\Paituar_Two-Dimensional Array.pdb
+C:\Users\ACT-STUDENT\Desktop\Two-Dimensional Array\Paituar_Two-Dimensional Array\Paituar_Two-Dimensional Array\obj\Debug\Paituar_Two-Dimensional Array.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Two-Dimensional Array\Paituar_Two-Dimensional Array\Paituar_Two-Dimensional Array\obj\Debug\Paituar_Two-Dimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Two-Dimensional Array\Paituar_Two-Dimensional Array\Paituar_Two-Dimensional Array\obj\Debug\Paituar_Two-Dimensional Array.exe
+C:\Users\ACT-STUDENT\Desktop\Two-Dimensional Array\Paituar_Two-Dimensional Array\Paituar_Two-Dimensional Array\obj\Debug\Paituar_Two-Dimensional Array.pdb
