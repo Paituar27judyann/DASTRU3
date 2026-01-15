@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\2D Array of Objects\Paituar_2D Array of Objects\Paituar_2D Array of Objects\bin\Debug\Paituar_2D Array of Objects.exe.config
+C:\Users\ACT-STUDENT\Desktop\2D Array of Objects\Paituar_2D Array of Objects\Paituar_2D Array of Objects\bin\Debug\Paituar_2D Array of Objects.exe
+C:\Users\ACT-STUDENT\Desktop\2D Array of Objects\Paituar_2D Array of Objects\Paituar_2D Array of Objects\bin\Debug\Paituar_2D Array of Objects.pdb
+C:\Users\ACT-STUDENT\Desktop\2D Array of Objects\Paituar_2D Array of Objects\Paituar_2D Array of Objects\obj\Debug\Paituar_2D Array of Objects.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\2D Array of Objects\Paituar_2D Array of Objects\Paituar_2D Array of Objects\obj\Debug\Paituar_2D Array of Objects.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\2D Array of Objects\Paituar_2D Array of Objects\Paituar_2D Array of Objects\obj\Debug\Paituar_2D Array of Objects.exe
+C:\Users\ACT-STUDENT\Desktop\2D Array of Objects\Paituar_2D Array of Objects\Paituar_2D Array of Objects\obj\Debug\Paituar_2D Array of Objects.pdb
