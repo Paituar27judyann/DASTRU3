@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\samplepages\Paituar_Inserting Nodes to the Linked List\Paituar_Inserting Nodes to the Linked List\bin\Debug\Paituar_Inserting Nodes to the Linked List.exe.config
+C:\Users\ACT-STUDENT\Desktop\samplepages\Paituar_Inserting Nodes to the Linked List\Paituar_Inserting Nodes to the Linked List\bin\Debug\Paituar_Inserting Nodes to the Linked List.exe
+C:\Users\ACT-STUDENT\Desktop\samplepages\Paituar_Inserting Nodes to the Linked List\Paituar_Inserting Nodes to the Linked List\bin\Debug\Paituar_Inserting Nodes to the Linked List.pdb
+C:\Users\ACT-STUDENT\Desktop\samplepages\Paituar_Inserting Nodes to the Linked List\Paituar_Inserting Nodes to the Linked List\obj\Debug\Paituar_Inserting Nodes to the Linked List.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\samplepages\Paituar_Inserting Nodes to the Linked List\Paituar_Inserting Nodes to the Linked List\obj\Debug\Paituar_Inserting Nodes to the Linked List.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\samplepages\Paituar_Inserting Nodes to the Linked List\Paituar_Inserting Nodes to the Linked List\obj\Debug\Paituar_Inserting Nodes to the Linked List.exe
+C:\Users\ACT-STUDENT\Desktop\samplepages\Paituar_Inserting Nodes to the Linked List\Paituar_Inserting Nodes to the Linked List\obj\Debug\Paituar_Inserting Nodes to the Linked List.pdb
