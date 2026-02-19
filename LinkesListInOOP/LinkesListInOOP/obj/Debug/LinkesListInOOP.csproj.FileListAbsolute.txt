@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\LinkesListInOOP\LinkesListInOOP\obj\Debug\LinkesListInOOP.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\LinkesListInOOP\LinkesListInOOP\obj\Debug\LinkesListInOOP.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\LinkesListInOOP\LinkesListInOOP\bin\Debug\LinkesListInOOP.exe.config
+C:\Users\ACT-STUDENT\Desktop\LinkesListInOOP\LinkesListInOOP\bin\Debug\LinkesListInOOP.exe
+C:\Users\ACT-STUDENT\Desktop\LinkesListInOOP\LinkesListInOOP\bin\Debug\LinkesListInOOP.pdb
+C:\Users\ACT-STUDENT\Desktop\LinkesListInOOP\LinkesListInOOP\obj\Debug\LinkesListInOOP.exe
+C:\Users\ACT-STUDENT\Desktop\LinkesListInOOP\LinkesListInOOP\obj\Debug\LinkesListInOOP.pdb
